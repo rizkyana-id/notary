@@ -14,9 +14,9 @@
 
 Berikut adalah lampiran desain antarmuka dan diagram alur sistem yang digunakan dalam pengembangan proyek ini:
 
-- **🎨 Desain UI/UX (Figma):** [Klik disini](https://www.figma.com/board/u7HMJWENW1eoAfcuUHkqs6/BlockNotary?node-id=0-1&t=qckBOUGlDVq4WhuT-1)
+- **🎨 Desain UI/UX (Figma):** [Klik disini](https://www.figma.com/design/5m71IIAKo6stgsIiBt0WDC/BlockNotary?node-id=0-1&t=nAHlKj6U6VMLWQx2-1)
 
-- **🧩 Diagram Alur & Logika (FigJam):** [Klik disini](https://www.figma.com/design/5m71IIAKo6stgsIiBt0WDC/BlockNotary?node-id=0-1&t=nAHlKj6U6VMLWQx2-1)
+- **🧩 Diagram Alur & Logika (FigJam):** [Klik disini](https://www.figma.com/board/u7HMJWENW1eoAfcuUHkqs6/BlockNotary?node-id=0-1&t=qckBOUGlDVq4WhuT-1)
 
 - **📜 Source Code:** Tersedia lengkap dalam repository ini.
 
