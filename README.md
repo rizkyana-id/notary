@@ -32,14 +32,11 @@ Aplikasi ini memungkinkan institusi (Admin) untuk menerbitkan "sertifikat digita
 
 #### 🔐 Panel Admin (Hanya Owner)
 1.  **Registrasi Dokumen:** Mendaftarkan hash dokumen PDF ke blockchain beserta metadata (Nama Pemilik, NIM, Status Awal, Catatan).
-2.  **Update Status:** Mengubah status dokumen yang sudah terdaftar secara *real-time* (Misal: Mengubah dari `Aktif` menjadi `Diblokir` jika ditemukan pelanggaran).
-3.  **Koneksi Wallet:** Integrasi aman menggunakan MetaMask.
+2.  **Koneksi Wallet:** Integrasi aman menggunakan MetaMask.
 
 #### 🌍 Panel Publik (Siapa Saja)
 1.  **Verifikasi Dokumen:** Upload file PDF untuk mengecek apakah file tersebut terdaftar di blockchain.
 2.  **Cek Metadata:** Menampilkan detail pemilik, NIM, dan status terkini.
-3.  **Timeline History:** Menampilkan jejak rekam (audit trail) lengkap dari dokumen, mulai dari pendaftaran hingga perubahan status terakhir.
-
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -49,7 +46,6 @@ Aplikasi ini memungkinkan institusi (Admin) untuk menerbitkan "sertifikat digita
 - **Styling:** Tailwind CSS (via CDN)
 - **Library Web3:** Ethers.js v6
 - **RPC Provider:** Alchemy / Infura
-
 
 ## 🚀 Cara Menjalankan Project (Instalasi)
 
